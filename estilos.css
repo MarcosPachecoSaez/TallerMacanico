@@ -1,0 +1,37 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 10%;
+    padding-right: 0%;
+    font-weight: sans-serif;
+    position: relative;
+    top: -40px;
+    left: -150px;
+    
+}
+h1{
+    color: white;
+    font-size: 70px;
+}
+
+a{
+    color: rgb(219, 211, 211);
+    text-decoration: none;
+}
+
+a:hover{
+    color: aquamarine
+    
+}
+
+body{
+
+    background-image: url(fondo/fon2.jpg);
+    background-position: center center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+ 
